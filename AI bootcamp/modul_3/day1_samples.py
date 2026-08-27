@@ -13,4 +13,11 @@ result =np.dot(A,C)
 # print("Matrix Multiplication \n",result)
 
 I = np.eye(5)
-print("Identity Matrix \n",I)
+# print("Identity Matrix \n",I)
+
+
+Z= np.zeros((2,3))
+# print("Zero Matrix\n",Z)
+
+D = np.diag((1,2,3))
+print("Diagonal     Matrix\n",D)
