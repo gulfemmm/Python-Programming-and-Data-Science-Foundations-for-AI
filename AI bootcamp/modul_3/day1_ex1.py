@@ -10,4 +10,5 @@ print("Addition\n",A + B)
 #Subtraction
 print("Subtraction\n",A-B)
 
+#Scalar Multiplication
 print("Scalar Mult:\n",3*A)
